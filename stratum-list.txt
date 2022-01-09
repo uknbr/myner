@@ -1,0 +1,131 @@
+Scrypt
+stratum+tcp://scrypt.LOCATION.nicehash.com:3333	45.7730
+TH/s	101794	0.2107
+BTC/TH/day	DETAILS
+SHA256
+stratum+tcp://sha256.LOCATION.nicehash.com:3334	539.3250
+PH/s	42316	0.0052
+BTC/PH/day	DETAILS
+X11
+stratum+tcp://x11.LOCATION.nicehash.com:3336	0.1071
+PH/s	695	0.6269
+BTC/PH/day	DETAILS
+X13
+stratum+tcp://x13.LOCATION.nicehash.com:3337	0.1404
+TH/s	125	0.0046
+BTC/TH/day	DETAILS
+Keccak
+stratum+tcp://keccak.LOCATION.nicehash.com:3338	4.4581
+TH/s	69	0.0001
+BTC/TH/day	DETAILS
+NeoScrypt
+stratum+tcp://neoscrypt.LOCATION.nicehash.com:3341	0.4307
+GH/s	283	0.0082
+BTC/GH/day	DETAILS
+Qubit
+stratum+tcp://qubit.LOCATION.nicehash.com:3344	9.7308
+TH/s	922	0.0041
+BTC/TH/day	DETAILS
+Quark
+stratum+tcp://quark.LOCATION.nicehash.com:3345	0.3312
+TH/s	34	0.0021
+BTC/TH/day	DETAILS
+Lyra2REv2
+stratum+tcp://lyra2rev2.LOCATION.nicehash.com:3347	1.0067
+TH/s	149	0.0021
+BTC/TH/day	DETAILS
+DaggerHashimoto
+stratum+tcp://daggerhashimoto.LOCATION.nicehash.com:3353
+stratum+ssl://stratum.LOCATION.nicehash.com:33353	58.6782
+TH/s	625277	1.1417
+BTC/TH/day	DETAILS
+Decred
+stratum+tcp://decred.LOCATION.nicehash.com:3354	0.1917
+PH/s	1212	0.0082
+BTC/PH/day	DETAILS
+Lbry
+stratum+tcp://lbry.LOCATION.nicehash.com:3356	0.0044
+PH/s	117	0.1062
+BTC/PH/day	DETAILS
+Equihash
+stratum+tcp://equihash.LOCATION.nicehash.com:3357
+stratum+ssl://stratum.LOCATION.nicehash.com:33357	0.5300
+GSol/s	5935	1.2237
+BTC/GSol/day	DETAILS
+Blake2s
+stratum+tcp://blake2s.LOCATION.nicehash.com:3361	0.0113
+PH/s	416	0.0136
+BTC/PH/day	DETAILS
+Lyra2Z
+stratum+tcp://lyra2z.LOCATION.nicehash.com:3365	0.0042
+TH/s	27	0.2399
+BTC/TH/day	DETAILS
+X16R
+stratum+tcp://x16r.LOCATION.nicehash.com:3366	0.9199
+GH/s	140	0.1161
+BTC/TH/day	DETAILS
+SHA256AsicBoost
+stratum+tcp://sha256asicboost.LOCATION.nicehash.com:3368	1138.4122
+PH/s	123554	0.0051
+BTC/PH/day	DETAILS
+ZHash
+stratum+tcp://zhash.LOCATION.nicehash.com:3369
+stratum+ssl://stratum.LOCATION.nicehash.com:33369	0.5973
+MSol/s	14933	0.3182
+BTC/MSol/day	DETAILS
+GrinCuckatoo31
+stratum+tcp://grincuckatoo31.LOCATION.nicehash.com:3372	0.2993
+kG/s	149	0.0089
+BTC/kG/day	DETAILS
+Lyra2REv3
+stratum+tcp://lyra2rev3.LOCATION.nicehash.com:3373	0.0028
+TH/s	234	0.0001
+BTC/TH/day	DETAILS
+CryptoNightR
+stratum+tcp://cryptonightr.LOCATION.nicehash.com:3375
+stratum+ssl://stratum.LOCATION.nicehash.com:33375	0.0269
+MH/s	259	0.0065
+BTC/MH/day	DETAILS
+CuckooCycle
+stratum+tcp://cuckoocycle.LOCATION.nicehash.com:3376	15.7615
+kG/s	2132	0.0050
+BTC/kG/day	DETAILS
+X16Rv2
+stratum+tcp://x16rv2.LOCATION.nicehash.com:3379	0.9382
+GH/s	211	0.0637
+BTC/TH/day	DETAILS
+RandomXmonero
+stratum+tcp://randomxmonero.LOCATION.nicehash.com:3380
+stratum+ssl://stratum.LOCATION.nicehash.com:33380	0.3434
+GH/s	137358	0.7517
+BTC/GH/day	DETAILS
+Eaglesong
+stratum+tcp://eaglesong.LOCATION.nicehash.com:3381	0.0197
+PH/s	40	0.0381
+BTC/PH/day	DETAILS
+GrinCuckatoo32
+stratum+tcp://grincuckatoo32.LOCATION.nicehash.com:3383	0.0130
+kG/s	42	0.0289
+BTC/kG/day	DETAILS
+Handshake
+stratum+tcp://handshake.LOCATION.nicehash.com:3384	0.6003
+TH/s	15	0.0001
+BTC/TH/day	DETAILS
+KAWPOW
+stratum+tcp://kawpow.LOCATION.nicehash.com:3385	1.6664
+TH/s	72667	1.7599
+BTC/TH/day	DETAILS
+BeamV3
+stratum+tcp://beamv3.LOCATION.nicehash.com:3387
+stratum+ssl://stratum.LOCATION.nicehash.com:33387	0.2621
+MSol/s	13403	1.2383
+BTC/MSol/day	DETAILS
+Octopus
+stratum+tcp://octopus.LOCATION.nicehash.com:3389	1.5732
+TH/s	21440	0.9598
+BTC/TH/day	DETAILS
+Autolykos
+stratum+tcp://autolykos.LOCATION.nicehash.com:3390	0.7251
+TH/s	3638	0.3160
+BTC/TH/day	DETAILS
+Location: eu-west, eu-north, usa-west, usa-east

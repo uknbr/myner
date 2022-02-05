@@ -7,21 +7,20 @@ My Miner
 ```bash
 bash ping.sh
 ```
-
-2. Build base image
-
-```bash
-bash setup.sh
-```
-
-3. Change configuration
+2. Change configuration
 
 ```bash
-ls -l config.env
+vim config.env
 ```
 
-4. Start miner
+3. Start miner
 
 ```bash
 docker-compose -f miner.yaml up -d --build
+```
+
+4. Logs
+
+```bash
+docker-compose -f miner.yaml logs -f
 ```

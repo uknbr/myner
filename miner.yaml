@@ -3,8 +3,7 @@ version: '3.3'
 services:
   miner:
     build: .
-    container_name: cpu-opt
-    #image: uknbr/cpu-opt:latest
+    container_name: myner
     env_file:
       - ./config.env
     restart: always
